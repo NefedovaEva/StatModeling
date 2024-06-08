@@ -6,6 +6,7 @@ import scipy as scipy
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 
+
 # Set the number of points
 n_points = 30
 dimension = 100
